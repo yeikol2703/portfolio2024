@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio2024/static/css/main.5da238aa.css",
+    "main.js": "/portfolio2024/static/js/main.33757dd7.js",
+    "static/media/02.png": "/portfolio2024/static/media/02.c63e46e0214bca290dbe.png",
+    "static/media/05.png": "/portfolio2024/static/media/05.aa637d83d19d517378b7.png",
+    "static/media/avatar.jpg": "/portfolio2024/static/media/avatar.f6ea743b380253d6c9b9.jpg",
+    "static/media/bootstrap-icons.woff?": "/portfolio2024/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/06.png": "/portfolio2024/static/media/06.e8667911298ad06dd2e1.png",
+    "static/media/bootstrap-icons.woff2?": "/portfolio2024/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/avatar-profile.png": "/portfolio2024/static/media/avatar-profile.3f4e3b990ec7d087afc9.png",
+    "static/media/yeikol_villalobos_cv_2024.pdf": "/portfolio2024/static/media/yeikol_villalobos_cv_2024.06aa8cd957f06a043847.pdf",
+    "static/media/01.png": "/portfolio2024/static/media/01.db0f2f55ca0fa62761e1.png",
+    "static/media/03.png": "/portfolio2024/static/media/03.8e4d0b85c5a01b224a16.png",
+    "static/media/04.png": "/portfolio2024/static/media/04.fccc9fdebc63de63656f.png",
+    "index.html": "/portfolio2024/index.html",
+    "main.5da238aa.css.map": "/portfolio2024/static/css/main.5da238aa.css.map",
+    "main.33757dd7.js.map": "/portfolio2024/static/js/main.33757dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da238aa.css",
+    "static/js/main.33757dd7.js"
+  ]
+}
